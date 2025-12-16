@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@charset "UTF-8";
+*{
+	margin: auto;
+}
+body{
+    text-align: center;
+    background-color: #f5f6f7;
+}
+.loginbtn{
+    margin-bottom: 7px;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(24, 207, 24);
+    color: white;
+    border: none;
+    border-radius: 2%;
+}
+.Regbtn{
+    margin-bottom: 7px;
+    width: 350px;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 2%;
+}
+.id{
+    margin-top: 0px;
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 2%;
+}
+
+.pwd{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 2%;
+}
+
+.regi{
+	font-size: small;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
